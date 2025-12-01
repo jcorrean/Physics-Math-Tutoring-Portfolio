@@ -1,0 +1,41 @@
+# Mario I. Caicedo
+## Filosofía de Enseñanza de las Matemáticas
+
+Mi nombre es Mario Iván Caicedo Sandgren y soy Profesor de Física en la Universidad Simón Bolívar (USB), una institución tecnológica venezolana de primer nivel con alto prestigio en América Latina. Mi formación en física proporciona una perspectiva única que enriquece mi enfoque de la enseñanza de las matemáticas, enfatizando su poder, belleza y aplicaciones. A lo largo de mi carrera académica de 33 años, gracias a la estructura de la USB, he tenido la fortuna de investigar y enseñar en cuatro áreas: física teórica y matemática, matemáticas, geociencias y ciencia de la complejidad.
+
+He impartido cursos basados en cálculo para estudiantes de ingeniería y ciencias, así como cursos avanzados de física de pregrado y posgrado, incluyendo aquellos sobre métodos geométricos y topológicos. También he supervisado 38 proyectos de investigación de pregrado, cuatro tesis de Maestría y he co-dirigido a un estudiante de Doctorado. En todos estos proyectos, he animado a los estudiantes a presentar su trabajo en conferencias, convencido de que la exposición pública fortalece la comprensión y la confianza. De manera informal, he enseñado matemáticas puras a grupos de estudiantes que me han pedido ayuda para reforzar sus cursos, abarcando temas que van desde análisis real y complejo y álgebra lineal, hasta ecuaciones diferenciales (tanto ordinarias como en derivadas parciales), geometría diferencial, y grupos y álgebras de Lie.
+
+A través de todos estos años, he aprendido que en realidad nadie le enseña nada a nadie. Los profesores actuamos como catalizadores del proceso de aprendizaje, facilitando la exploración en lugar de entregar verdades acabadas. No obstante, por conveniencia, seguiré usando las palabras *enseñar* y *profesor*. He identificado cuatro escenarios de enseñanza diferentes: la clase magistral, la interacción directa en reuniones programadas, las discusiones informales en encuentros no planificados y la mentoría de estudiantes avanzados. También pienso en los estudiantes en tres categorías amplias: público general, estudiantes en cursos introductorios y estudiantes avanzados. Cada intersección de estas categorías requiere enfoques ligeramente diferentes, pero en todos los casos, la empatía y el respeto son esenciales.
+
+Los estudiantes abordan el aprendizaje con diferentes motivaciones y habilidades. El público general suele ser curioso, como cuando se visita un museo; los estudiantes introductorios buscan conceptos y técnicas útiles para cursos futuros; los estudiantes avanzados están desarrollando habilidades profesionales y requieren desafíos guiados para construir confianza y pensamiento independiente.
+
+Incluso en matemáticas, las ideas presentadas en el aula rara vez se comprenden en su totalidad. Por ejemplo, cuando se les pide a los estudiantes que desarrollen (a+b)² y (a+b)(a-b), casi siempre obtienen a²+2ab+b² y a²-b². Sin embargo, cuando se les pide que calculen 23×17 o 12², muy pocos reconocen atajos como 20²-3²=391 o 100+2×2×10+2²=144. Del mismo modo, en cursos avanzados, muy pocos notan que √18 = √(16+2) = 4√(1+1/8) ≈ 4(1+1/16) = 4.25, valor que se acerca notablemente al valor exacto —con cuatro decimales— de 4.2426. Estos ejemplos ilustran la diferencia entre la corrección procedimental y una comprensión más profunda, una distinción que me esfuerzo por destacar en todos los cursos.
+
+Los estudiantes también llegan con preconcepciones. Un ejemplo concreto que uso en clase proviene de la topología: la definición de una variedad mediante un atlas maximal. Muchos estudiantes al principio tienen dificultades para ver por qué necesitamos un atlas maximal, o cómo interactúan diferentes cartas. Para hacer esto tangible, llevo un atlas físico de la Tierra al aula. Muestro que cada carta (o mapa) cubre una región, algunos mapas se superponen y, juntos, dan una imagen clara de toda la superficie. Esta demostración práctica permite a los estudiantes ver cobrar vida la definición abstracta y entender la necesidad del atlas maximal. Las demostraciones y los ejemplos visuales breves como este, a menudo esbozados en la pizarra, son centrales para ayudar a los estudiantes a internalizar conceptos matemáticos abstractos. Siempre que es posible, también complemento las lecciones con videos cortos o ilustraciones computacionales que refuercen estas ideas.
+
+Al presentar demostraciones, habitualmente dibujo bosquejos o diagramas para proporcionar intuición y guía visual. Creo que conectar conceptos abstractos con la intuición geométrica o gráfica ayuda a los estudiantes a internalizar el razonamiento. Por ejemplo, en álgebra lineal, ilustro las transformaciones lineales mapeando vectores en un plano; en análisis, a menudo dibujo gráficas de funciones para apoyar los argumentos épsilon-delta. En todo momento, integro ejemplos simples que son concretos y a menudo divertidos, ayudando a anclar las ideas abstractas en la experiencia.
+
+También me ocupo de presentar el lado humano de las matemáticas. Siempre que es posible, comparto breves historias de matemáticos y su contexto histórico, situando los descubrimientos dentro del flujo de la cultura humana —Roma antes de la Revolución Industrial, Babilonia antes de Roma, Colón antes de la Revolución Americana— para mostrar que las matemáticas son una empresa humana inserta en la historia. Incluyo referencias al arte, la literatura y otras manifestaciones culturales de manera mesurada, siempre para iluminar la belleza y el contexto de los conceptos. La profunda recompensa de este enfoque llega cuando una simple consigna —encontrar una relación entre Salvador Dalí o Leonardo da Vinci y las matemáticas— hace que los estudiantes regresen con enormes sonrisas, compartiendo entusiasmados sus descubrimientos sobre el *De Divina Proportione* de Pacioli o la influencia del topólogo René Thom. En esos momentos de alegría compartida, el límite entre la ciencia y el arte se disuelve, y el aprendizaje se convierte en una aventura colaborativa.
+
+En el aula, fomento la deliberación, el cuestionamiento y la discusión. Proporciono notas detalladas por adelantado para que el tiempo de clase pueda dedicarse a explorar ideas, resolver dudas y conectar conceptos. Los conjuntos de problemas están diseñados para iluminar los resultados teóricos y fomentar el pensamiento independiente, mientras que los ejercicios computacionales permiten a los estudiantes comparar el razonamiento analítico con los resultados numéricos. Me pongo a disposición de los estudiantes tanto como me es posible, manteniendo siempre una actitud respetuosa y accesible.
+
+Finalmente, para resumir mi enfoque, mantengo lo que llamo una *lista de verificación de vuelo*:
+
+1. Tratar a los estudiantes con amabilidad y respeto en todo momento.
+2. Fomentar las preguntas y la curiosidad; la única pregunta tonta es la que no se hace.
+3. Ayudar a los estudiantes a gestionar la frustración y la ansiedad, guiándolos para que encuentren alegría en el descubrimiento.
+4. Ser accesible y tener una actitud abierta al diálogo.
+5. Combinar el rigor con la intuición: en demostraciones y ejemplos, conectar ideas abstractas con ilustraciones visuales o concretas.
+6. Proporcionar notas antes de las clases y enfatizar las ideas clave durante la misma.
+7. Profundizar en los detalles técnicos manteniendo la perspectiva del panorama conceptual general.
+8. Predicar con el ejemplo, manteniendo altos estándares sin arrogancia.
+9. Utilizar tecnología y herramientas de código abierto para mejorar la comprensión y la verificación.
+10. Diseñar evaluaciones basadas en la comprensión y la práctica, no en una presión de tiempo extrema.
+11. Hacer del aprendizaje una experiencia atractiva y alegre.
+
+En esencia, mi filosofía de enseñanza está enraizada en la empatía, la claridad y la dimensión humana de las matemáticas. 
+Mi objetivo es cultivar la intuición, el razonamiento y la curiosidad de los estudiantes, mientras destaco la belleza y el contexto cultural de la disciplina. 
+Mi meta final es fomentar aprendices seguros y reflexivos que puedan apreciar tanto el rigor como la elegancia de las matemáticas.
+
+
+**Mario I. Caicedo, PhD**
