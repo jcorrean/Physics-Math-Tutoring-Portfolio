@@ -141,7 +141,7 @@ Here's a sample from my tutoring work showing both approaches to the same proble
 
 **Both are correct. Both teach different skills. Students need both.**
 
-See more examples in the [Examples folder](./Examples/).
+See more examples in the [Examples folder](./Examples/some_tutoring_sessions.md).
 
 ---
 
