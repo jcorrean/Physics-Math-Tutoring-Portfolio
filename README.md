@@ -98,7 +98,7 @@ And most importantly: **I'm still learning.** Every student teaches me something
 - [Physics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Physics_Teaching_Philosophy.pdf)
 - [Filosofía de Enseñanza de Física (Español)](./Teaching_Philosophy/Filosofía_de_Enseñanza_de_la_Física.md)
 - [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Math_Teaching_Philosophy.pdf)
-- [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching_Philosophy/Math-Teaching-Philosophy-ES.pdf)
+- [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching_Philosophy/Filosofia_de_Ensenahza_de_Matematicas.md)
 
 ---
 
