@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <img src="Assets/mario_face.jpg" width="100%" alt="Mario Caicedo">
+      <img src="Assets/tutor1.jpg" width="100%" alt="Mario Caicedo">
       <br><br>
       <div align="center">
         <b>Mario I. Caicedo</b><br>
