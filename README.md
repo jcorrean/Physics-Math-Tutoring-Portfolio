@@ -78,7 +78,7 @@ And most importantly: **I'm still learning.** Every student teaches me something
 **Read my full teaching philosophy:**
 - [Physics Teaching Philosophy (English)](./Teaching_Philosophy/Physics-Teaching-Philosophy-EN.pdf)
 - [Filosofía de Enseñanza de Física (Español)](./Teaching_Philosophy/Physics-Teaching-Philosophy-ES.pdf)
-- [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Advanced_Math_Teaching_Philosophy.pdf)
+- [Mathematics Teaching Philosophy (English)](./Teaching_Philosophy/Math-Teaching-Philosophy-EN.pdf)
 - [Filosofía de Enseñanza de Matemáticas (Español)](./Teaching_Philosophy/Math-Teaching-Philosophy-ES.pdf)
 
 ---
@@ -213,6 +213,4 @@ The only silly question is the one left unasked. ☕
 ---
 
 *"Mario, you cannot hide the Professor inside you." - My friends*  
-*"My mind is enough to play." - M.I.C.*
-*"My mind is enough to play." - M.I.C.*
-*"My mind is enough to play." - M.I.C.*
+*"A mind is enough to play." - M.I.C.*
