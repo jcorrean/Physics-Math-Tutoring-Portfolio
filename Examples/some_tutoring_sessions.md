@@ -2,6 +2,7 @@
 
 **Academic Integrity Notice: I strictly adhere to academic honesty policies. I do not provide solutions for active exams or graded assignments. The materials below are for study and review purposes only.**
 
+- [Las Mates S]on Diverti(das../Free_Reading_Study_Material/Las_Mates_Son_Divertidas.pdf)
 - [Solution of an OLD exam from Professor's study material](../Free_Reading_Study_Material/EXAM_MAT100.pdf)
 - [Estas notas fueron preparadas para una tutoria de seis meses a un par de estudiantes de la Universidad de Delft en  Los paises Bajos](../Free_Reading_Study_Material/Notas_Acerca_de_Ecuaciones_Diferenciales.pdf)
 - [Dos Horas de Consulta Acerca de una Técnica de Integración](../Free_Reading_Study_Material/El_Método_de_Fracciones_Parciales.pdf).
