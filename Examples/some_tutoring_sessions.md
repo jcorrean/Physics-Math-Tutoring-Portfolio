@@ -1,4 +1,4 @@
-**This material is related to tutoring sessions as explained in each case**
+# This is the kind of contents I create in Order to Support my Tutoring
 
 **Academic Integrity Notice: I strictly adhere to academic honesty policies. I do not provide solutions for active exams or graded assignments. The materials below are for study and review purposes only.**
 
