@@ -226,7 +226,7 @@ Todos mis repositorios de cursos son de código abierto y están disponibles en 
 
 **Canal de YouTube**: [Physics Math and Coffee](https://www.youtube.com/@PhysicsMathandCoffee)
 
-**Contacto**: [Tu email o formulario de contacto aquí]
+**Contacto**: [physicsmathandcoffee@gmail.com] [micaicedo60@gmail.com]
 
 ---
 
