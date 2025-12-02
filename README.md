@@ -220,7 +220,7 @@ All my course repositories are open-source and available on GitHub:
 
 **YouTube Channel**: [Physics Math and Coffee](https://www.youtube.com/@PhysicsMathandCoffee)
 
-**Contact**: [Your email or contact form here]
+**Contact**: [physicsmathandcoffee@gmail.com] [micaicedo60@gmail.com]
 
 ---
 
