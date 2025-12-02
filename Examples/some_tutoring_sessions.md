@@ -1,4 +1,4 @@
-# This is a Sample of the kind of contents I hve been creating to Support my Tutoring
+# This is a Sample of the kind of contents I have been creating to Support my Teaching and my Tutoring
 
 - [Las Mates Son Divertidas](../Free_Reading_Study_Material/Las_Mates_Son_Divertidas.pdf)
 - [Math is Fun](../Free_Reading_Study_Material/Math_is_Fun.pdf)
