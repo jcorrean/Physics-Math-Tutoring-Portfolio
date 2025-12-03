@@ -151,6 +151,14 @@ The key? **Same principles, different language.** Kids don't need dumbed-down sc
 
 ---
 
+## Student Testimonials
+
+See what students and parents say about their experience learning physics and mathematics.
+
+**[Read Student Testimonials →](./Testimonials/Leeme.md)**
+
+---
+
 ## Example: Dual-Method Teaching
 
 Here's a sample from my tutoring work showing both approaches to the same problem:
