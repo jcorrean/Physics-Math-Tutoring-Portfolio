@@ -22,8 +22,6 @@
 
 # Física, Matemáticas y Café: Portafolio de Tutorías
 
-
-
 ---
 
 **Dr. Mario I. Caicedo**  
@@ -162,6 +160,8 @@ La clave: **Mismos principios, diferente lenguaje.** Los niños no necesitan cie
 No solo tomes mi palabra. Aquí está lo que estudiantes y padres han experimentado:
 
 **[Lee los Testimonios →](./Testimonials/Leeme.md)**
+
+---
 
 ## Ejemplo: Enseñanza con Método Dual
 
