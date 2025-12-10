@@ -161,8 +161,7 @@ No solo tomes mi palabra. Aquí está lo que estudiantes y padres han experiment
 
 **[Lee los Testimonios →](./Testimonials/Leeme.md)**
 
-**Quieres compartir tu experiencia?** [Cómo contribuir un testimonio →](./CONTRIBUCION_ES.md)
- | [Learn how to contribute a testimonial →](./CONTRIBUTING_EN.MD)
+**Quieres compartir tu experiencia?** [Cómo contribuir un testimonio →](./CONTRIBUCION_ES.md) | [Learn how to contribute a testimonial →](./CONTRIBUTING_EN.MD)
 ---
 
 ## Ejemplo: Enseñanza con Método Dual
