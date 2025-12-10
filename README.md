@@ -157,7 +157,7 @@ See what students and parents say about their experience learning physics and ma
 
 **[Read Student Testimonials →](./Testimonials/Leeme.md)**
 
-**Want to share your experience?** [Learn how to contribute a testimonial →](./CONTRIBUTING_EN.md) | [Cómo contribuir un testimonio →](./CONTRIBUTING_ES.md)
+**Want to share your experience?** [Learn how to contribute a testimonial →](./CONTRIBUTING_EN.md) | [Cómo contribuir un testimonio →](./CONTRIBUCION_ES.md)
 
 ---
 
